@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // This is an added comment
+            //new comment
         }
     }
 }
