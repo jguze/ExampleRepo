@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             // This is an added comment
             //new comment
+            // This is a change
         }
     }
 }
